@@ -1,0 +1,37 @@
+body{
+  margin:0 auto;
+}
+
+hr{
+  background-color:#dfb540;
+  height: 3px;
+  border:none;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+
+
+#task{
+  display: block;
+  margin:auto;
+  text-align: center;
+  border:solid 1px #eee;
+  width: 90%;
+}
+
+#list{
+  margin:auto;
+  width: 90%;
+
+}
+#bt{
+  background-color: #dfb540;
+  border: 0;
+  float: right;
+}
+.block{
+  border: solid 1px #eee;
+  margin: 5px;
+  height: 30px;
+}
